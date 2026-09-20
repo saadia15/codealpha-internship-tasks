@@ -10,29 +10,29 @@ A simple text-based Hangman Game where the player guesses a hidden word one lett
 
 Features:
 
-Uses a small list of 5 predefined words.
+-Uses a small list of 5 predefined words.
 
-Allows the player to guess letters.
+-Allows the player to guess letters.
 
-Displays the progress of the hidden word.
+-Displays the progress of the hidden word.
 
-Limits the number of incorrect guesses.
+-Limits the number of incorrect guesses.
 
-Runs completely in the console.
+-Runs completely in the console.
 
 Key Concepts:
 
-Random selection
+-Random selection
 
-while loops
+-while loops
 
-if-else statements
+-if-else statements
 
-Strings
+-Strings
 
-Lists
+-Lists
 
-User input and output
+-User input and output
 
 📈 Task 2: Stock Portfolio Tracker
 
@@ -40,25 +40,25 @@ A simple Stock Portfolio Tracker that calculates the total investment value base
 
 Features:
 
-Allows the user to enter stock names and quantities.
+-Allows the user to enter stock names and quantities.
 
-Uses a predefined dictionary containing stock prices.
+-Uses a predefined dictionary containing stock prices.
 
-Calculates the total investment value.
+-Calculates the total investment value.
 
-Displays the portfolio information.
+-Displays the portfolio information.
 
-Supports saving the result to a .txt or .csv file (optional).
+-Supports saving the result to a .txt or .csv file (optional).
 
 Key Concepts:
 
-Dictionaries
+-Dictionaries
 
-User input and output
+-User input and output
 
-Basic arithmetic
+-Basic arithmetic
 
-File handling
+-File handling
 
 💬 Task 4: Basic Chatbot
 
@@ -66,63 +66,63 @@ A simple rule-based chatbot that responds to common user messages.
 
 Features:
 
-Accepts messages from the user.
+-Accepts messages from the user.
 
-Recognizes basic greetings and common phrases.
+-Recognizes basic greetings and common phrases.
 
-Provides predefined responses.
+-Provides predefined responses.
 
-Uses simple rules instead of AI or machine learning.
+-Uses simple rules instead of AI or machine learning.
 
-Runs through the console.
+-Runs through the console.
 
 Example Inputs:
 
-hello
+-hello
 
-how are you
+-how are you
 
-bye
+-bye
 
 Key Concepts:
 
-if-elif-else statements
+-if-elif-else statements
 
-Functions
+-Functions
 
-Loops
+-Loops
 
-User input and output
+-User input and output
 
-String handling
+-String handling
 
 🛠️ Technologies Used
 
-Python 3
+-Python 3
 
-Python built-in modules and features
+-Python built-in modules and features
 
-Console-based input/output
+-Console-based input/output
 
 📚 Learning Outcomes
 
 Through these tasks, I practiced:
 
-Python fundamentals
+-Python fundamentals
 
-Working with lists and dictionaries
+-Working with lists and dictionaries
 
-Conditional statements
+-Conditional statements
 
-Loops and functions
+-Loops and functions
 
-User input and output
+-User input and output
 
-Basic file handling
+-Basic file handling
 
-Building simple console-based applications
+-Building simple console-based applications
 
-Applying Python concepts to practical problems
+-Applying Python concepts to practical problems
 
 👩‍💻 Internship
 
